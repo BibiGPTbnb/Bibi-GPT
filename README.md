@@ -16,9 +16,6 @@
 - Backend: **Netlify Function** calling the **OpenAI Chat Completions API**
 - Theme: Dark Binance / BIBI energy — neon, glow, and a friendly diamond‑mascot chat.
 
-> ⚠️ Disclaimer: BibiGPT is **not** an official Binance product and is **not** affiliated with, endorsed by, or sponsored by Binance in any way.  
-> It is a fan‑built educational project.
-
 ---
 
 ## 📁 Repo Map
